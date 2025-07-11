@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 63067ff61bd4f4648a4b1891275e1b1c, type: 3}
+  m_Name: DialogueData_Teacher
+  m_EditorClassIdentifier: 
+  Phrases:
+  - textRu: "\u0411\u0443\u0434\u044C \u043E\u0441\u0442\u043E\u0440\u043E\u0436\u0435\u043D
+      !"
+    textEn: Be careful!
+    audioRu: {fileID: 8300000, guid: 3e00c36b4d6b05545b8fe02bb39febab, type: 3}
+    audioEn: {fileID: 8300000, guid: fb1f86ef3ccf2e64baece3f7189ed4cf, type: 3}
+  - textRu: "\u041C\u043E\u043D\u0441\u0442\u0440\u044B \u043E\u043A\u0440\u0443\u0436\u0430\u044E\u0442
+      \u0441\u043E \u0432\u0441\u0435\u0445 \u0441\u0442\u043E\u0440\u043E\u043D"
+    textEn: Monsters surround from all sides
+    audioRu: {fileID: 8300000, guid: d992680de8c94c24db01eb661ebc27b4, type: 3}
+    audioEn: {fileID: 8300000, guid: 407e2df91fb0d3d48b3cb9d6929f67c0, type: 3}
+  personIcon: {fileID: 21300000, guid: 8d4a5704f7832cf408dd0fde12ea22bd, type: 3}
+  NameRu: "\u0423\u0447\u0438\u0442\u0435\u043B\u044C"
+  NameEn: Teacher
+  CanTalk: 1
